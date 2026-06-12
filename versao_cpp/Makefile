@@ -1,6 +1,6 @@
 CXX = g++
 CXXFLAGS = -Wall -Wextra -std=c++11 -pthread
-TARGET = jogo_pthreads
+TARGET = jogo_pthreads_cpp
 SRC = jogo_pthreads.cpp
 
 all: $(TARGET)

@@ -1,6 +1,6 @@
 # Jogo Bateria jogo com pthreads
 
-Implementacao simples em C++ usando `pthread`, `pthread_mutex_t` e `pthread_cond_t`.
+Implementacao simples em C usando `pthread`, `pthread_mutex_t` e `pthread_cond_t`.
 
 ## Compilacao
 
